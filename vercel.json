@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/api/removebg",
-      "destination": "https://api.remove.bg/v1.0/removebg"
-    }
